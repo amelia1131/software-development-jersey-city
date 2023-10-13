@@ -1,1 +1,0 @@
-# software-development-jersey-city
